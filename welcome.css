@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+    background-image: url("light\ tech\ background\ \(2\).avif");
+}
+.container{
+    background-color: rgb(246, 245, 245);
+    padding-left: 500px;
+    padding-bottom: 500px;
+    padding-top: 300px;
+    padding-right: 500px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+
+}
+nav{
+    margin: 0 ;
+    padding: 4mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+header{
+    background: #2e3a59;
+    color: white;
+    padding: 2mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    font-size: xx-large;
+}
+    
