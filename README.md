@@ -16,3 +16,4 @@ https://github.com/user-attachments/assets/177246bf-213b-438b-8410-da847039af1e
  ✅ Projects with GitHub links
  ✅ Internships and certifications
  ✅ Contact details
+live at :https://srivarshinirajeshkanna.github.io/portfolio/
